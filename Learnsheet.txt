@@ -1,1 +1,14 @@
-Day 1
+Day 1: 13/04/2020 20h50
+
+    STEP 1:
+        *Introducing myself to the course
+
+    Notes: 
+        *Just noticed the course is a series of videos. Dunno if I'll need to test while learning or if I'll leave the testing for afterwards?
+
+WORKTIME: 27M 
+
+Stopping time: 13/04/2020 21h17
+
+References: 
+    -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
