@@ -10,5 +10,43 @@ WORKTIME: 27M
 
 Stopping time: 13/04/2020 21h17
 
+
+
+Day 2: 14/04/2020 16h28
+
+    STEP 1 IN PROGRESS
+
+    Notes: 
+        *Need to understand what is ARIA
+        *What are those? "OOCSS / SMACSS / BEM"
+        *What the f*ck is Agile 
+        *What the f*ck is DevOps
+        *What's transpiling
+        *What is bundling
+        *Went thourgh The first part of the course. 
+        *Tomorow I'm starting the "Web Programming Foundations" part.
+
+    What I'm Learning: 
+        *The concept of UI/UX
+        *The importance of JavaScript
+        *Protocols: HTTP < HTTPS
+        *Protocols: TCP/IP & DNS
+        *The importance of HTTP Headers for Servers 
+        *ARIA
+        *The importance of easy navigation for all the users ( Keyboard shortcuts)
+        *OOCSS / SMACSS / BEM
+        *MVC Design concept
+        *TLD ( Top Level Domain) => .com .org etc
+        *Develepors creates Services and APIs
+        *Need to be comfortable with using and managing data from services like REST
+
+
+
+
+
+WORKTIME:
+
+Stopping time: 14/04/2020 
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
