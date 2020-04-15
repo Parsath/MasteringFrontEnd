@@ -40,13 +40,25 @@ Day 2: 14/04/2020 16h28
         *Develepors creates Services and APIs
         *Need to be comfortable with using and managing data from services like REST
 
+WORKTIME: 1H10M
+
+Stopping time: 14/04/2020 17h58
 
 
 
+Day 3: 15/04/2020 19h26
 
-WORKTIME:
+    STEP 1 IN PROGRESS
 
-Stopping time: 14/04/2020 
+    Notes:
+        *I'm actually BRAINDEAD, too tired to understand, will progress faster once I finish my Qt Project.
+
+    What I'm Learning:
+        *Basics that I already know about HTML and Code structuring. 
+
+WORKTIME: 20M
+
+Stopping time: 15/04/2020 19h54
 
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
