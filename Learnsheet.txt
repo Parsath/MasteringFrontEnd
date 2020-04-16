@@ -60,5 +60,27 @@ WORKTIME: 20M
 
 Stopping time: 15/04/2020 19h54
 
+
+
+Day 4: 16/04/2020 20h24
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Finished the second part of the course
+
+    What I'm Learning:
+        *Accessibiliy concept
+
+    VERY USEFUL LINK :
+        -browsersync.io
+    
+WORKTIME: 1H01M
+
+Stopping time: 16/04/2020 22h13 
+
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
+    -https://www.browsersync.io
