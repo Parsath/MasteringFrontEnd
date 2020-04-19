@@ -81,6 +81,24 @@ Stopping time: 16/04/2020 22h13
 
 
 
+Day 5: 19/04/2020 19h44
+
+    STEP 1 IN PROGRESS
+
+    Notes:
+        *Newfound motivation from a friendly speech. This course will be my main focus from now on.
+        *Got into the "UX For Web Design" part. 
+
+
+    What I'm Learning:
+        *
+
+WORKTIME: 1H30M
+
+Stopping time: 21h24
+
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.browsersync.io
