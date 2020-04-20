@@ -2,6 +2,7 @@ Day 1: 13/04/2020 20h50
 
     STEP 1:
         *Introducing myself to the course
+        *Succeeding in Web Development: Full Stack and Front End
 
     Notes: 
         *Just noticed the course is a series of videos. Dunno if I'll need to test while learning or if I'll leave the testing for afterwards?
@@ -14,7 +15,7 @@ Stopping time: 13/04/2020 21h17
 
 Day 2: 14/04/2020 16h28
 
-    STEP 1 IN PROGRESS
+    STEP 1 Completed
 
     Notes: 
         *Need to understand what is ARIA
@@ -48,7 +49,8 @@ Stopping time: 14/04/2020 17h58
 
 Day 3: 15/04/2020 19h26
 
-    STEP 1 IN PROGRESS
+    STEP 2:
+        *Web Programming Foundations
 
     Notes:
         *I'm actually BRAINDEAD, too tired to understand, will progress faster once I finish my Qt Project.
@@ -64,7 +66,7 @@ Stopping time: 15/04/2020 19h54
 
 Day 4: 16/04/2020 20h24
 
-    STEP 1 IN PROGRESS
+    STEP 2 Completed
 
     Notes:
         *Finished the second part of the course
@@ -83,7 +85,10 @@ Stopping time: 16/04/2020 22h13
 
 Day 5: 19/04/2020 19h44
 
-    STEP 1 IN PROGRESS
+    STEP 3:
+        *Programming Foundations: Fundamentals
+
+    STEP 3 Completed
 
     Notes:
         *Newfound motivation from a friendly speech. This course will be my main focus from now on.
@@ -99,6 +104,46 @@ Stopping time: 21h24
 
 
 
+Day 6: 20/04/2020 13h25
+
+    STEP 4:
+        *User Experience for Web Design
+    STEP 4 Completed at 18h45
+    
+    STEP 5:
+        *UX Foundatioons: Accessibiliy
+    STEP 5 Completed at 20h24
+
+    Notes:
+        *The UX part of the course is very important, I should consider going back to it, each time I want to design a website until I get familiar with EACH and EVERY concept. 
+        *Decided to breakdown the STEPS and to pass every step with each part of the Course completed.
+        *The five seconds test is a good idea to test if the website is understandable and attractive to people.
+        *The Step 4 and 5 are very important and new to me, I should get back to them as often I can when I'm looking forward to a project.
+
+    What I'm learning:
+        *UX is very important and determines wheither people will tend to want to stay or leave your website. 
+        *When designing the website, it's important to put yourself in the clients' place, and try to imagine what will make him stay and what will make leave.
+        *Make it so every person understand where they are and how to navigate, wherever they are. 
+        *It's important to take into account the people who don't have the same motor reflexes AND patience as us. Time lags on certain "hover" effects are important to put into the code to make it easier for people to navigate through the website
+
+        USEFUL LINKS:
+            -http://fivesecondtest.com
+            -http://clueapp.com
+            -http://uxmatters.com
+            -http://boxesandarrows.com
+            -https://contrast-ratio.com/
+            -https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333
+
+WORKTIME: 3H20M
+
+Stopping time: 20/04/2020 20h27
+
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.browsersync.io
+    -http://fivesecondtest.com
+    -http://clueapp.com
+    -http://uxmatters.com
+    -http://boxesandarrows.com
