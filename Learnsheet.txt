@@ -3,6 +3,7 @@ Day 1: 13/04/2020 20h50
     STEP 1:
         *Introducing myself to the course
         *Succeeding in Web Development: Full Stack and Front End
+            -https://www.lynda.com/Web-tutorials/Succeeding-Web-Development-Full-Stack-Front-End/2805571-2.html
 
     Notes: 
         *Just noticed the course is a series of videos. Dunno if I'll need to test while learning or if I'll leave the testing for afterwards?
@@ -51,6 +52,7 @@ Day 3: 15/04/2020 19h26
 
     STEP 2:
         *Web Programming Foundations
+            -https://www.lynda.com/Web-Development-tutorials/Web-Programming-Fundamentals/667390-2.html
 
     Notes:
         *I'm actually BRAINDEAD, too tired to understand, will progress faster once I finish my Qt Project.
@@ -74,8 +76,8 @@ Day 4: 16/04/2020 20h24
     What I'm Learning:
         *Accessibiliy concept
 
-    VERY USEFUL LINK :
-        -browsersync.io
+        VERY USEFUL LINK :
+            -browsersync.io
     
 WORKTIME: 1H01M
 
@@ -87,6 +89,7 @@ Day 5: 19/04/2020 19h44
 
     STEP 3:
         *Programming Foundations: Fundamentals
+            -https://www.lynda.com/JavaScript-tutorials/Programming-Foundations-Basics/779751-2.html
 
     STEP 3 Completed
 
@@ -108,11 +111,15 @@ Day 6: 20/04/2020 13h25
 
     STEP 4:
         *User Experience for Web Design
-    STEP 4 Completed at 18h45
+            -https://www.lynda.com/User-Experience-tutorials/User-Experience-Fundamentals-Web-Design/421802-2.html
+    
+    STEP 4 Completed at 18h45 ( in appx 2h)
     
     STEP 5:
         *UX Foundatioons: Accessibiliy
-    STEP 5 Completed at 20h24
+            -https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html
+
+    STEP 5 Completed at 20h24 ( in appx 1h20)
 
     Notes:
         *The UX part of the course is very important, I should consider going back to it, each time I want to design a website until I get familiar with EACH and EVERY concept. 
@@ -140,6 +147,40 @@ Stopping time: 20/04/2020 20h27
 
 
 
+Day 7: 21/04/2020 12h44
+
+    STEP 6:
+        *HTML Essential Training
+            -https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/786437-2.html
+
+    STEP 6 Completed at 15h56 ( in 2h16)
+
+    STEP 7:
+        *CSS Essential Training
+            -https://www.lynda.com/CSS-tutorials/CSS-Essential-Training/5038219-2.html
+        (1h01 for now)
+
+    Notes:
+        *Practicing the CSS basics by working on the project provided in the course.
+        
+    WHAT I'M LEARNING:
+        *Principles on how to code properly with HTML
+        *In depth look on the use of some elements
+
+        USEFUL LINK:
+            -https://codeguide.co       // Provides standards for coding
+            -https://colours.neilorangepeel.com     // Provides keywords for colors
+            -https://css-tricks.com/examples/HSLaExplorer      // Tool for manipulating HSLa Colours
+            -https://randomally.com     // Provides random colors with contrast for color blind people
+            -https://coolors.co     // Provides random customasible color palettes
+
+WORKTIME: 3H17M
+
+Stopping time: 21/04/2020 19h57 
+
+
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.browsersync.io
@@ -147,3 +188,4 @@ References:
     -http://clueapp.com
     -http://uxmatters.com
     -http://boxesandarrows.com
+    -https://codeguide.co
