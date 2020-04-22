@@ -180,6 +180,35 @@ Stopping time: 21/04/2020 19h57
 
 
 
+Day 8: 22/04/2020 14h20
+
+    STEP 7 IN PROGRESS
+    
+    Step 7 Completed at 22h18 (in appx 6h53 )
+
+    Notes:
+        *I'm DEAD Tired, wanted to finish this CSS course today but also try to understand every single step in the way of it. Want to finish the course by the end of the week. Took me a while, but finaly finished it.
+
+    WHAT I'M LEARNING:
+        *There are 5 types of Typefaces (fonts): Script / Decorative / Monospace / Serif / Sans-serif
+        *How Float Works
+
+        USEFUL LINK:
+            -https://specificity.keegan.st/     // Hierarchy calculation in css
+            -https://webfx.com/web-design/hex-to-rgb/       // Convert HEX to RGB
+            -https://fontsquirrel.com/tools/webfont-generator/      // Contains fonts & Guidelines on how and where you can use the fonts
+            -https://css-tricks.com/snippets/css/using-font-face/       // Learning more about font-face
+            -https://fonts.google.com/      // Google plateform providing FONTS FOR US
+            -https://caniuse.com/       // Tools that shows you the browser compatibility with css elements
+            -https://unsplash.com/      //Stock Photography website
+            -https://browserstack.com/      // Website for testing the website on multiple devices
+
+WORKTIME: 5H53M
+
+Stopping time: 22/04/2020 22h17
+
+
+
 
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
@@ -188,4 +217,18 @@ References:
     -http://clueapp.com
     -http://uxmatters.com
     -http://boxesandarrows.com
-    -https://codeguide.co
+    -https://contrast-ratio.com/
+    -https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333
+    -https://codeguide.co       // Provides standards for coding
+    -https://colours.neilorangepeel.com     // Provides keywords for colors
+    -https://css-tricks.com/examples/HSLaExplorer      // Tool for manipulating HSLa Colours
+    -https://randomally.com     // Provides random colors with contrast for color blind people
+    -https://coolors.co     // Provides random customasible color palettes
+    -https://specificity.keegan.st/     // Hierarchy calculation in css
+    -https://webfx.com/web-design/hex-to-rgb/       // Convert HEX to RGB
+    -https://fontsquirrel.com/tools/webfont-generator/      // Contains fonts & Guidelines on how and where you can use the fonts
+    -https://css-tricks.com/snippets/css/using-font-face/       // Learning more about font-face
+    -https://fonts.google.com/      // Google plateform providing FONTS FOR US
+    -https://caniuse.com/       // Tools that shows you the browser compatibility with css elements
+    -https://unsplash.com/      //Stock Photography website
+    -https://browserstack.com/      // Website for testing the website on multiple devices
