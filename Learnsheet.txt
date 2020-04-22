@@ -191,7 +191,7 @@ Day 8: 22/04/2020 14h20
 
     WHAT I'M LEARNING:
         *There are 5 types of Typefaces (fonts): Script / Decorative / Monospace / Serif / Sans-serif
-        *How Float Works
+        *How Floats Work
 
         USEFUL LINK:
             -https://specificity.keegan.st/     // Hierarchy calculation in css
