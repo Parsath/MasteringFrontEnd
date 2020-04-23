@@ -184,7 +184,7 @@ Day 8: 22/04/2020 14h20
 
     STEP 7 IN PROGRESS
     
-    Step 7 Completed at 22h18 (in appx 6h53 )
+    Step 7 Completed at 22h18 (in 6h53 )
 
     Notes:
         *I'm DEAD Tired, wanted to finish this CSS course today but also try to understand every single step in the way of it. Want to finish the course by the end of the week. Took me a while, but finaly finished it.
@@ -193,7 +193,7 @@ Day 8: 22/04/2020 14h20
         *There are 5 types of Typefaces (fonts): Script / Decorative / Monospace / Serif / Sans-serif
         *How Floats Work
 
-        USEFUL LINK:
+        USEFUL LINKS:
             -https://specificity.keegan.st/     // Hierarchy calculation in css
             -https://webfx.com/web-design/hex-to-rgb/       // Convert HEX to RGB
             -https://fontsquirrel.com/tools/webfont-generator/      // Contains fonts & Guidelines on how and where you can use the fonts
@@ -206,6 +206,30 @@ Day 8: 22/04/2020 14h20
 WORKTIME: 5H53M
 
 Stopping time: 22/04/2020 22h17
+
+
+
+Day 9: 23/04/2020 12h32
+
+    STEP 8:
+        *JavaScript Essential Training
+
+    STEP 8 Completed at 21h05 ( in 4h46m )
+
+    Notes:
+        *I need to check a course on how to manipulate NPM and go back to the eslint (code quality checker) tutorial in the course & uglify-js ( minifier)
+
+    WHAT I'M LEARNING:
+        *A lot of stuff, basically, check the documentation whenever I get stuck. JS needs a lot of practice.
+
+        USEFUL LINKS:
+            -www.jslint.com     // JavaScript code quality check
+            -www.jshint.com     // JavaScript lineant code quality check
+            -www.minifier.org   // JavaScript Minifier
+
+WORKTIME: 4H45M
+
+Stopping Time: 23/04/2020 21h06
 
 
 
@@ -232,3 +256,6 @@ References:
     -https://caniuse.com/       // Tools that shows you the browser compatibility with css elements
     -https://unsplash.com/      //Stock Photography website
     -https://browserstack.com/      // Website for testing the website on multiple devices
+    -www.jslint.com     // JavaScript code quality check
+    -www.jshint.com     // JavaScript lineant code quality check
+    -www.minifier.org   // JavaScript Minifier
