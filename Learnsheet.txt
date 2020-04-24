@@ -233,6 +233,29 @@ Stopping Time: 23/04/2020 21h06
 
 
 
+Day 10: 24/04/2020 15h14
+
+    STEP 9:
+        *Responsive Layout
+
+    STEP 9 Completed at 17h20 ( in 1h58m)
+
+    STEP 10:
+        *Learning Github
+
+    Notes:
+        *I need to work on my School project, I'll probably be back on monday.
+
+    WHAT I'M LEARNING:
+        *ALWAYS set box-sizing: border-box as default in the CSS stylesheet
+
+
+WORKTIME: 2H40M
+
+Stopping time: 24/04/2020 21h13
+
+
+
 
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
