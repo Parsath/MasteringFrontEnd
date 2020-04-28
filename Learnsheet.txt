@@ -256,6 +256,29 @@ Stopping time: 24/04/2020 21h13
 
 
 
+Day 11: 28/04/2020 18h32
+
+    STEP 10 IN PROGRESS
+
+    STEP 10 Completed at 19h52 ( in appx 2h05m )
+
+    STEP 11:
+        *Bootstrap 4 Essential Training
+
+    Notes: 
+        *
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 1H33M
+
+Stopping time: 28/04/2020 20h02
+
+
+
+
+
 
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
