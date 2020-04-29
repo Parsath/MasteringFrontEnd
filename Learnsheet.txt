@@ -277,6 +277,21 @@ Stopping time: 28/04/2020 20h02
 
 
 
+Day 12: 29/04/2020 15h41
+
+    STEP 11 IN PROGRESS
+
+    Notes:
+        *My life would've been easier, If I would've mastered Bootstrap before the Toyfight project. I'm actually surprised I managed to create the index with only native HTML/CSS/JS. 
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 2H49M
+
+Stopping time: 29/04/2020 19h29
+
+
 
 
 
