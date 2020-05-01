@@ -293,6 +293,43 @@ Stopping time: 29/04/2020 19h29
 
 
 
+Day 13: 30/04/2020 18h00
+
+    STEP 11 IN PROGRESS
+
+    Notes:
+        *Got sick, couldn't do anything. 
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 15M
+
+Stopping time: 30/04/2020 18h15
+
+
+
+Day 14: 01/05/2020 13h45
+
+    STEP 11 IN PROGRESS
+
+    STEP 11 Completed at 16h31 ( in 5h19m )
+
+    STEP 12:
+        *Sass Essential Training
+
+    STEP 12 Completed at 20h00 ( in 1h28m )
+
+    Notes: 
+        *Bootstrap is AWESOME.
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 3H38M
+
+Stopping time: 01/05/2020 20h01
+
 
 
 References: 
