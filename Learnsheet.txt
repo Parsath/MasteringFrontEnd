@@ -322,6 +322,7 @@ Day 14: 01/05/2020 13h45
 
     Notes: 
         *Bootstrap is AWESOME.
+        *Need to go back up to the Sass course to learn how to set up the environment of work with Sass using node-sass and gulp. 
 
     WHAT I'M LEARNING:
         *
@@ -332,8 +333,37 @@ Stopping time: 01/05/2020 20h01
 
 
 
+Day 15: 02/05/2020 14h00
+
+    STEP 13: (Final Course in the path)
+        *Learning React.js
+
+    STEP 13 Completed at 15h46 (in 49m)
+
+    STEP 14:
+        *Learning Angular
+            Ref:
+                -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+    Notes:
+        *"Create React App" is the way to go if I want to work with React in a real Project,
+            Ref:
+                -https://www.lynda.com/React-js-tutorials/Install-create-react-app/800214/2201439-4.html
+        *Completed the Learning Path:
+            It took me around 33 Hours and 12 minutes. It's been hard to keep up with all the information this learning path has provided and I still think most of it will not stick in my brain if I don't practice. I'll go ahead and learn a bit more about Angular and then I'll look for ways to practice by myself.
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 1H50M
+
+Stopping time: 02/05/2020 18H29
+
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
+    -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
     -https://www.browsersync.io
     -http://fivesecondtest.com
     -http://clueapp.com
