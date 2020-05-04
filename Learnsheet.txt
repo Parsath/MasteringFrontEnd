@@ -361,6 +361,24 @@ Stopping time: 02/05/2020 18H29
 
 
 
+Day 16: 04/05/2020 16h42
+
+    STEP 14 IN PROGRESS
+
+    Notes:
+        *Trying the openclassroom course 
+            -https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/4668278-decouvrez-les-enjeux-autour-dangular
+        *Figured I'd download WebStorm, so I signed in as a Student, and I'm now Having a mini crash course on how to use it.
+            -https://www.youtube.com/watch?v=YEGbHP7hszM
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME:
+
+Stopping time: 04/05/2020
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
@@ -384,6 +402,7 @@ References:
     -https://caniuse.com/       // Tools that shows you the browser compatibility with css elements
     -https://unsplash.com/      //Stock Photography website
     -https://browserstack.com/      // Website for testing the website on multiple devices
-    -www.jslint.com     // JavaScript code quality check
-    -www.jshint.com     // JavaScript lineant code quality check
-    -www.minifier.org   // JavaScript Minifier
+    -https:/jslint.com     // JavaScript code quality check
+    -https:/jshint.com     // JavaScript lineant code quality check
+    -https:/minifier.org   // JavaScript Minifier
+    -https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/4668278-decouvrez-les-enjeux-autour-dangular
