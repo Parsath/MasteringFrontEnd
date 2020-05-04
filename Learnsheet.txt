@@ -370,13 +370,16 @@ Day 16: 04/05/2020 16h42
             -https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/4668278-decouvrez-les-enjeux-autour-dangular
         *Figured I'd download WebStorm, so I signed in as a Student, and I'm now Having a mini crash course on how to use it.
             -https://www.youtube.com/watch?v=YEGbHP7hszM
+        *After Completing the course, and understanding how Angular works, if I have no official project to work on, I'll go for a personnal project, to master all I've learnt so far.
+        *I guess I'll have to lean to code with TypeScript too.
 
     WHAT I'M LEARNING:
-        *
+        *How to Use WebStorm
+        *Angular
 
-WORKTIME:
+WORKTIME: 1H46M
 
-Stopping time: 04/05/2020
+Stopping time: 04/05/2020 18h55
 
 
 References: 
