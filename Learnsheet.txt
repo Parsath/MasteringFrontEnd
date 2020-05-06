@@ -382,6 +382,23 @@ WORKTIME: 1H46M
 Stopping time: 04/05/2020 18h55
 
 
+
+Day 17: 06/05/2020 13h28
+
+    STEP 14 IN PROGRESS
+
+    Notes:
+        *Angular is great, but I really gotta practice hard for this one.
+        *I need to get used to Bootstrap.
+
+    WHAT I'M LEARNING:
+        *Learned a lot of stuff about Angular, even made a "mini-blog".
+
+WORKTIME: 4H07M
+
+Stopping time: 06/05/2020 19h34
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
