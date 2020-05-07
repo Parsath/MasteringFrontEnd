@@ -399,6 +399,26 @@ WORKTIME: 4H07M
 Stopping time: 06/05/2020 19h34
 
 
+
+Day 18: 07/05/2020 12h51
+
+    STEP 14 IN PROGRESS
+
+    Notes:
+        *Angular is hard as hell, I need practice.
+
+    WHAT I'M LEARNING:
+        *Services
+        *Observables
+        *The whole Angular System
+        *the existence of Firebase
+
+
+WORKTIME: 4H00M
+
+Stopping time: 07/05/2020 19h23
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
