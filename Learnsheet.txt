@@ -419,6 +419,24 @@ WORKTIME: 4H00M
 Stopping time: 07/05/2020 19h23
 
 
+
+Day 19: 08/05/2020 14h27
+
+    STEP 14 IN PROGRESS
+
+    Notes:
+        *Went back to the Lynda Course, it was an easy one, and did not provide the informations I need. I'm going to go through the tutorial in the official documentation, and I'm once I complete it, I'll jump into my first personnal project.
+        *The structure, the methodology, everything about Angular seems complex, I want to have an overall image about everything it can do. Once I complete this "Objective", I'll be able to get on with my personal project.
+        *Today was all about reading and understanding.
+
+    WHAT I'M LEARNING:
+        *Angular :)
+
+WORKTIME: 3H58M
+
+Stopping time: 08/05/2020 20h00
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
@@ -446,3 +464,4 @@ References:
     -https:/jshint.com     // JavaScript lineant code quality check
     -https:/minifier.org   // JavaScript Minifier
     -https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/4668278-decouvrez-les-enjeux-autour-dangular
+    -https://angular.io/docs
