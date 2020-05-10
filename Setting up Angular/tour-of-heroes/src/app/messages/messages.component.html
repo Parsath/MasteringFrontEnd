@@ -1,0 +1,12 @@
+<div class="col-6" *ngIf="messageService.messages.length">
+  <div class="rounded-top bg-danger" style="margin-right: 0; margin-left: 0">
+    <h2 class="d-inline-block col-2">Messages</h2>
+    <button class="btn btn-warning d-inline-block"
+            (click)="messageService.clear()"
+            style="position:absolute;right: 5%; margin-top: 4px;">Clear</button>
+  </div>
+  <div class="bg-warning rounded-bottom text-dark text-center"
+       *ngFor="let message of messageService.messages">
+    {{ message }}
+  </div>
+</div>

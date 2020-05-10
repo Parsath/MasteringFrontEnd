@@ -1,0 +1,12 @@
+<div *ngIf="hero" class="container col-6 border border-light rounded" style="background-color: #90ee90; padding-bottom: 5px">
+  <div class="d-flex flex-nowrap flex-column">
+    <h3 class="text-light align-self-center">{{hero.name | uppercase}} Details</h3>
+    <div>
+      <span class="badge">ID: </span> <p class="text-light">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{hero.id}}</p>
+    </div>
+    <div>
+      <label class="badge">Name: </label>
+      <input class="form-control" [(ngModel)]="hero.name" placeholder="name"/>
+    </div>
+  </div>
+</div>
