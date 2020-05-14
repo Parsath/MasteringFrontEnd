@@ -2,7 +2,6 @@
   <h2>My Heroes</h2>
   <ul class="list-group list-group-flush">
     <div *ngFor="let hero of heroes"
-         (click)="onSelect(hero)"
          class="row pb-1">
       <div class="col-1 rounded-left" style="background-color:#9090ee">
         <div style="margin: auto; margin-top: 5px; padding: auto; text-align: center" class="text-white">{{hero.id}}</div>
@@ -17,6 +16,4 @@
       </div>
     </div>
   </ul>
-
-<!--  <app-hero-detail [hero]="selectedHero"></app-hero-detail>-->
 </div>

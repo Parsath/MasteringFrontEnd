@@ -469,6 +469,22 @@ WORKTIME: 1H24M
 Stopping time: 13/05/2020 20h45
 
 
+
+Day 22: 14/05/2020 18h00
+
+    STEP 14 IN PROGRESS
+
+    Notes:
+        *
+
+    WHAT I'M LEARNING:
+        *
+
+WORKTIME: 30M
+
+Stopping time: 14/05/2020 18h30
+
+
 References: 
     -https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer
     -https://www.lynda.com/Angular-tutorials/Learning-Angular/677480-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aangular%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
